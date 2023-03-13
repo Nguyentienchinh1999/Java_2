@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
+
         Storage<String, Integer> s1 = new Storage<>("chinh",0376264416);
         System.out.println(s1.toString());
 
